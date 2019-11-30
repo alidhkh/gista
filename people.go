@@ -6,8 +6,8 @@ import (
 
 	"github.com/go-errors/errors"
 
-	"github.com/aliforever/gista/constants"
-	"github.com/aliforever/gista/responses"
+	"github.com/alidhkh/gista/constants"
+	"github.com/alidhkh/gista/responses"
 )
 
 type people struct {

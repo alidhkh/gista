@@ -6,13 +6,13 @@ import (
 	"math"
 	"os"
 
-	"github.com/aliforever/gista/media/geometry"
-	mediaconstraints "github.com/aliforever/gista/media/media-constraints"
+	"github.com/alidhkh/gista/media/geometry"
+	mediaconstraints "github.com/alidhkh/gista/media/media-constraints"
 
-	"github.com/aliforever/gista/utils"
+	"github.com/alidhkh/gista/utils"
 
-	"github.com/aliforever/gista/constants"
-	"github.com/aliforever/gista/media"
+	"github.com/alidhkh/gista/constants"
+	"github.com/alidhkh/gista/media"
 	"github.com/go-errors/errors"
 )
 

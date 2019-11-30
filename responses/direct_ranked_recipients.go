@@ -1,6 +1,6 @@
 package responses
 
-import "github.com/aliforever/gista/models"
+import "github.com/alidhkh/gista/models"
 
 type DirectRankedRecipients struct {
 	Response

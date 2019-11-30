@@ -7,11 +7,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/aliforever/gista/errs"
+	"github.com/alidhkh/gista/errs"
 
 	"github.com/natefinch/atomic"
 
-	"github.com/aliforever/gista/utils"
+	"github.com/alidhkh/gista/utils"
 )
 
 type StorageHandler struct {

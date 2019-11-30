@@ -3,7 +3,7 @@ package models
 import (
 	"time"
 
-	"github.com/aliforever/gista/models/token"
+	"github.com/alidhkh/gista/models/token"
 )
 
 type Token struct {

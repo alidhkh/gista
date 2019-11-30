@@ -11,14 +11,14 @@ import (
 	_ "image/png"
 	"os"
 
-	"github.com/aliforever/gista/utils"
+	"github.com/alidhkh/gista/utils"
 
 	"github.com/disintegration/imaging"
 
 	"github.com/go-errors/errors"
 
-	Instagram_media "github.com/aliforever/gista/media/Instagram-media"
-	"github.com/aliforever/gista/media/geometry"
+	Instagram_media "github.com/alidhkh/gista/media/Instagram-media"
+	"github.com/alidhkh/gista/media/geometry"
 )
 
 type InstagramPhoto struct {

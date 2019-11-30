@@ -6,13 +6,13 @@ libraries.
 
 ## Installation
 ```sh
-go get github.com/aliforever/gista
+go get github.com/alidhkh/gista
 ```
 ```go
 package main
 import (
 	"fmt"
-	"github.com/aliforever/gista"
+	"github.com/alidhkh/gista"
 )
 
 func main() {

@@ -3,11 +3,11 @@ package gista
 import (
 	"regexp"
 
-	"github.com/aliforever/gista/constants"
+	"github.com/alidhkh/gista/constants"
 
-	"github.com/aliforever/gista/errs"
+	"github.com/alidhkh/gista/errs"
 
-	"github.com/aliforever/gista/responses"
+	"github.com/alidhkh/gista/responses"
 )
 
 type tv struct {

@@ -1,7 +1,7 @@
 package responses
 
 import (
-	"github.com/aliforever/gista/models"
+	"github.com/alidhkh/gista/models"
 )
 
 type ReelsMedia struct {
